@@ -21,13 +21,13 @@ The collected data is cleaned and stored in a Pandas DataFrame for further analy
 
 ## 🚀 Technologies Used
 
-python
-web-scraping
-beautifulsoup
-requests
-pandas
-data-analysis
-jupyter-notebook
+- python
+- web-scraping
+- beautifulsoup
+- requests
+- pandas
+- data-analysis
+- jupyter-notebook
 
 
 ---
